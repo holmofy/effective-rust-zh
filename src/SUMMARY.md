@@ -13,7 +13,7 @@
     - [条款7：](./chapter_1_types/07_builders.md)
     - [条款8：](./chapter_1_types/08_references.md)
     - [条款9：](./chapter_1_types/09_iterators.md)
-- [特征](./chapter_2_traits.md)
+- [Traits](./chapter_2_traits.md)
     - [条款10：](./chapter_2_traits/10_std-traits.md)
     - [条款11：](./chapter_2_traits/11_raii.md)
     - [条款12：](./chapter_2_traits/12_generics.md)

@@ -1,4 +1,4 @@
-## 条款一：用类型系统去表示你的数据结构
+## 条款1：用类型系统去表示你的数据结构
 
 > “谁叫他们是程序员而不是打字员”—— [@thingskatedid](https://twitter.com/thingskatedid/status/1400213496785108997)
 
