@@ -1,6 +1,6 @@
 [book]
 authors = ["holmofy"]
-language = "en"
+language = "zh-CN"
 multilingual = false
 src = "src"
 title = "Effective Rust chinese"
