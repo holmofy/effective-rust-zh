@@ -4,9 +4,9 @@
 [前言](./preface.md)
 
 - [类型](./chapter_1_types.md)
-    - [条款1：](./chapter_1_types/01_use-types.md)
-    - [条款2：](./chapter_1_types/02_use-types-2.md)
-    - [条款3：](./chapter_1_types/03_transform.md)
+    - [条款1：用类型系统表示数据结构](./chapter_1_types/01_use-types.md)
+    - [条款2：用类型系统表示公用行为](./chapter_1_types/02_use-types-2.md)
+    - [条款3：首选Option和Result转换而不是显式匹配表达式](./chapter_1_types/03_transform.md)
     - [条款4：](./chapter_1_types/04_errors.md)
     - [条款5：](./chapter_1_types/05_casts.md)
     - [条款6：](./chapter_1_types/06_newtype.md)
