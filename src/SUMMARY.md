@@ -19,7 +19,7 @@
     - [条款12：](./chapter_2_traits/12_generics.md)
     - [条款13：](./chapter_2_traits/13_default-impl.md)
 - [概念](./chapter_3_concepts.md)
-    - [条款14：](./chapter_3_concepts/14_lifetimes.md)
+    - [条款14：理解生命周期](./chapter_3_concepts/14_lifetimes.md)
     - [条款15：](./chapter_3_concepts/15_borrows.md)
     - [条款16：](./chapter_3_concepts/16_unsafe.md)
     - [条款17：](./chapter_3_concepts/17_deadlock.md)
