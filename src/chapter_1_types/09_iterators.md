@@ -1,4 +1,4 @@
-## 考虑使用迭代器转换而不是显式循环
+## 条款9：考虑使用迭代器转换而不是显式循环
 
 不起眼的循环经历了漫长的历史，变得越来越方便，越来越抽象。[B语言](https://web.archive.org/web/20150611114427/https://www.bell-labs.com/usr/dmr/www/kbman.pdf)（C 的前身）只有 `while (condition) { ... }`，但随着 C 的出现，通过添加 `for` 循环，遍历数组索引的常见场景变得更加方便：
 
