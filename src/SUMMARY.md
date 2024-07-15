@@ -24,7 +24,7 @@
     - [条款16：](./chapter_3_concepts/16_unsafe.md)
     - [条款17：](./chapter_3_concepts/17_deadlock.md)
     - [条款18：](./chapter_3_concepts/18_panic.md)
-    - [条款19：](./chapter_3_concepts/19_reflection.md)
+    - [条款19：避免反射](./chapter_3_concepts/19_reflection.md)
     - [条款20：](./chapter_3_concepts/20_optimize.md)
 - [依赖](./chapter_4_deps.md)
     - [条款21：](./chapter_4_deps/21_semver.md)
