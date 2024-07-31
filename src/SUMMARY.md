@@ -20,7 +20,7 @@
     - [条款13：使用默认实现来最小化所需的特征方法](./chapter_2_traits/13_default-impl.md)
 - [概念](./chapter_3_concepts.md)
     - [条款14：理解生命周期](./chapter_3_concepts/14_lifetimes.md)
-    - [条款15：](./chapter_3_concepts/15_borrows.md)
+    - [条款15：了解借用检查器](./chapter_3_concepts/15_borrows.md)
     - [条款16：](./chapter_3_concepts/16_unsafe.md)
     - [条款17：](./chapter_3_concepts/17_deadlock.md)
     - [条款18：](./chapter_3_concepts/18_panic.md)
