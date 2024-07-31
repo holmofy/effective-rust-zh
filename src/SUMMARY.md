@@ -14,7 +14,7 @@
     - [条款8：熟悉引用和指针类型](./chapter_1_types/08_references.md)
     - [条款9：考虑使用迭代器转换而不是显式循环](./chapter_1_types/09_iterators.md)
 - [Traits](./chapter_2_traits.md)
-    - [条款10：](./chapter_2_traits/10_std-traits.md)
+    - [条款10：熟悉标准特征](./chapter_2_traits/10_std-traits.md)
     - [条款11：实现RAII模式的Drop trait](./chapter_2_traits/11_raii.md)
     - [条款12：](./chapter_2_traits/12_generics.md)
     - [条款13：](./chapter_2_traits/13_default-impl.md)
